@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="eye_26-09-28_01-39-47-470.jpg" alt="Banner do projeto" width="100%">
+  <img src="168306-2.jpg" alt="Banner do projeto" width="100%">
 </p>
 
 # Vandals Aeternum
